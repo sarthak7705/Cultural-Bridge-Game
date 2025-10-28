@@ -1,0 +1,3 @@
+[submodule "Cultural-Bridge-API"]
+	path = Cultural-Bridge-API
+	url = https://github.com/om-baji/Cultural-Bridge-API.git
